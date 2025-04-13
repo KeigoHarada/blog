@@ -1,12 +1,27 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "記事一覧"
+    url: /posts/
+  - title: "プロジェクト一覧"
+    url: /projects/
+  - title: "About"
+    url: /about/
+
+# サイドバーナビゲーション
+docs:
+  - title: "コンテンツ"
+    children:
+      - title: "記事一覧"
+        url: /posts/
+      - title: "プロジェクト一覧"
+        url: /projects/
+      - title: "About"
+        url: /about/
+  - title: "カテゴリー"
+    children:
+      - title: "プログラミング"
+        url: /categories/programming/
+      - title: "技術メモ"
+        url: /categories/tech-memo/
+      - title: "その他"
+        url: /categories/others/
