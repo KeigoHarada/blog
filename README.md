@@ -1,3 +1,11 @@
+# 個人ブログ
+
+## 概要
+
+技術内容などを記事にしています。
+Jekyllを利用して作成しています。
+テーマは[Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/)を利用しています。
+
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
@@ -185,13 +193,13 @@ To test the theme, run `bundle exec rake preview` and open your browser at `http
 - <https://twitter.com/mmistakes>
 - <https://github.com/mmistakes>
 
-### Icons + Demo Images:
+### Icons + Demo Images
 
 - [The Noun Project](https://thenounproject.com) - Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
 - [Font Awesome](http://fontawesome.io/)
 - [Unsplash](https://unsplash.com/)
 
-### Other:
+### Other
 
 - [Jekyll](http://jekyllrb.com/)
 - [jQuery](http://jquery.com/)
@@ -230,13 +238,13 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Minimal Mistakes incorporates icons from [The Noun Project](https://thenounproject.com/) 
+Minimal Mistakes incorporates icons from [The Noun Project](https://thenounproject.com/)
 creators Garrett Knoll, Arthur Shlain, and tracy tam.
 Icons are distributed under Creative Commons Attribution 3.0 United States (CC BY 3.0 US).
 
 Minimal Mistakes incorporates [Font Awesome](http://fontawesome.io/),
 Copyright (c) 2017 Dave Gandy.
-Font Awesome is distributed under the terms of the [SIL OFL 1.1](http://scripts.sil.org/OFL) 
+Font Awesome is distributed under the terms of the [SIL OFL 1.1](http://scripts.sil.org/OFL)
 and [MIT License](http://opensource.org/licenses/MIT).
 
 Minimal Mistakes incorporates photographs from [Unsplash](https://unsplash.com).
@@ -253,7 +261,7 @@ Copyright (c) 2013 Dave Rubert and Chris Coyier.
 FitVids is distributed under the terms of the [WTFPL License](http://www.wtfpl.net/).
 
 Minimal Mistakes incorporates [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/),
-Copyright (c) 2014-2016 Dmitry Semenov, http://dimsemenov.com.
+Copyright (c) 2014-2016 Dmitry Semenov, <http://dimsemenov.com>.
 Magnific Popup is distributed under the terms of the MIT License.
 
 Minimal Mistakes incorporates [Smooth Scroll](http://github.com/cferdinandi/smooth-scroll),
